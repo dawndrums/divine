@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://docs.dawndrums.tn/docs/category/divine"><img title="divine-d" src="assets/divine_d.png" width="50%"/></a>
+<a href="https://docs.dawndrums.tn/docs/category/divine"><img title="divine-d" src="d._/assets/divine_d.png" width="50%"/></a>
 </div>
 
 ## Overview
